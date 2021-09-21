@@ -2,7 +2,7 @@
 
 Small web app that tracks your water intake and helps you reach your daily goal.
 
-![UI-Screenshot](ui.png)
+![UI-Screenshot](UI.png)
 
 ## Live Preview
 
