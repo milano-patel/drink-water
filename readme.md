@@ -2,6 +2,8 @@
 
 Small web app that tracks your water intake and helps you reach your daily goal.
 
+![UI-Screenshot](ui.png)
+
 ## Live Preview
 
 https://milano-patel.github.io/drink-water/
